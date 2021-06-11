@@ -18,7 +18,7 @@
 .banner 
 {
    height: 500px;
-   background-image: url(./bg_02.png);
+   background-image: url(../images/bg_02.png);
    background-size: cover;
    background-position: center;
    color: white;
