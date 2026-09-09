@@ -30,7 +30,7 @@
 .banner h1 {
 
    font-size: 30px;  
-   color: rgb(95, 91, 91);
+   color: #fff;
 }
 
 .banner p {
@@ -79,7 +79,7 @@ a:hover {
 
 .card-white:hover {
 
-   transform: scale(1.1); 1.2
+   transform: scale(1.1); 
    z-index: 2;
 }
 
